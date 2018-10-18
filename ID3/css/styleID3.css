@@ -1,0 +1,13 @@
+/*my framework*/
+.select-table, .select-column{
+    padding-top: 3px !important;
+    height: 26px !important;
+}
+
+.btn{
+    border-radius: 0;
+}
+
+.table-choose{
+    padding-bottom: 10px;
+}
